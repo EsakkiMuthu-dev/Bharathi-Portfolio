@@ -644,3 +644,9 @@ nav ul li a {
 .list li::marker {
   color: #2a83b5; /* Change "red" to your desired color */
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
